@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
 require 'rack/utils'
-require 'active_support/core_ext/uri'
+# require 'active_support/core_ext/uri'
 
 module GraphdocRuby
   class Static
